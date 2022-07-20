@@ -1,2 +1,2 @@
 # G-API
-Licenca de ativação 
+(Atenção) Esse plugin serve para ativar os demais plugins do G-Plugins
